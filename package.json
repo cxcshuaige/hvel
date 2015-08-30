@@ -1,0 +1,31 @@
+{
+  "name": "hvel",
+  "version": "0.0.1",
+  "description": "just simple http module with velocity",
+  "main": "./index.js",
+  "directories": {
+    "test": ""
+  },
+  "dependencies": {
+    "velocity": "^0.7.2"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cxcshuaige/hvel.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": {
+    "name": "luke chan"
+  },
+  "license": "ISC",
+  "readme": "./README.md",
+  "_id": "hvel@0.0.1",
+  "_shasum": "2dd0ddc2faddfea7ce554d1086d412829fedb57f",
+  "_from": "../hvel",
+  "_resolved": "file:../hvel"
+}
